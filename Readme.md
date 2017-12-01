@@ -1,6 +1,6 @@
 # Zumo Shield 
 
-PCB shield design for the [Pololu]() [Zumo Robot Chassis](https://www.pololu.com/product/1418) in [Eagle CAD](https://www.autodesk.com/products/eagle/overview).
+PCB shield design for the [Pololu](https://www.pololu.com) [Zumo Robot Chassis](https://www.pololu.com/product/1418) in [Eagle CAD](https://www.autodesk.com/products/eagle/overview).
 
 ![Zumo with custom shield](fig/zumo.jpg)
 

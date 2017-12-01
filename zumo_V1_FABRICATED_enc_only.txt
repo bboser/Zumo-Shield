@@ -1,0 +1,17 @@
+Partlist exported from /Users/boser/Dropbox/Files/Circuits/Eagle/projects/Zumo/zumo_enc_only.sch at 10/10/17 10:54 AM
+
+Part Value       Device         Package      Library  Description                DIGIKEY              
+C1M  3.3nF/25V   CAPACITORC0805 C0805        EE49     CAPACITOR, European symbol 732-8052-6-ND        
+C2M  3.3nF/25V   CAPACITORC0805 C0805        EE49     CAPACITOR, European symbol 732-8052-6-ND        
+JP1  JPWR        PINHD-1X2      1X02         zumo     PIN HEADER                                      
+JP2  PINHD-1X12  PINHD-1X12     1X12         zumo     PIN HEADER                                      
+R1   10k         RESISTORR0805  R0805        EE49     RESISTOR, American symbol                       
+R2   10k         RESISTORR0805  R0805        EE49     RESISTOR, American symbol                       
+R3   10k         RESISTORR0805  R0805        EE49     RESISTOR, American symbol                       
+R4   10k         RESISTORR0805  R0805        EE49     RESISTOR, American symbol                       
+S1   SWPWR       SWITCH-SPSTSMD AYZ0202      SparkFun SPST Switch                401-2013-6-ND        
+U1   AH1751WG    AH1751WG       SC59         zumo                                AH1751-WG-7-ADIDKR-ND
+U2   AH1751WG    AH1751WG       SC59         zumo                                AH1751-WG-7-ADIDKR-ND
+U3   AH1751WG    AH1751WG       SC59         zumo                                AH1751-WG-7-ADIDKR-ND
+U4   AH1751WG    AH1751WG       SC59         zumo                                AH1751-WG-7-ADIDKR-ND
+U5   ZUMONO_TABS ZUMONO_TABS    ZUMO_NO_TABS zumo     ZUMO Robot Chassis Shield                       

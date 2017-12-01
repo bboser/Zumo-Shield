@@ -14,6 +14,6 @@ Alternative to circuit boards from Pololu when you want to design your own elect
 
 ![Custom shield](fig/board.jpg)
 
-The board has been successfully fabricated by [OSH Park](https://oshpark.com). If you use a different PCB fab, make sure that it will cut out the "holes" for the battery tabs (VBAT+ and VBAT- on the PCB layout).
+The board has been fabricated by [OSH Park](https://oshpark.com). If you use a different PCB fab, make sure that it will cut out the "holes" for the battery tabs (VBAT+ and VBAT- on the PCB layout).
 
 *Acknowledgement:* many thanks to Polou for providing a cad file with the locations of the holes and mag sensors of the Zumo.
